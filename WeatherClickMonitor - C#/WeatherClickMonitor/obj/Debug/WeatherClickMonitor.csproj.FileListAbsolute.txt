@@ -1,0 +1,49 @@
+C:\Users\Mario\Documents\Visual Studio 2019\Visual Studio 2019\WeatherClickMonitor\WeatherClickMonitor\bin\Debug\WeatherClickMonitor.exe.config
+C:\Users\Mario\Documents\Visual Studio 2019\Visual Studio 2019\WeatherClickMonitor\WeatherClickMonitor\bin\Debug\WeatherClickMonitor.exe
+C:\Users\Mario\Documents\Visual Studio 2019\Visual Studio 2019\WeatherClickMonitor\WeatherClickMonitor\bin\Debug\WeatherClickMonitor.pdb
+C:\Users\Mario\Documents\Visual Studio 2019\Visual Studio 2019\WeatherClickMonitor\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.csprojAssemblyReference.cache
+C:\Users\Mario\Documents\Visual Studio 2019\Visual Studio 2019\WeatherClickMonitor\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.Form1.resources
+C:\Users\Mario\Documents\Visual Studio 2019\Visual Studio 2019\WeatherClickMonitor\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.Properties.Resources.resources
+C:\Users\Mario\Documents\Visual Studio 2019\Visual Studio 2019\WeatherClickMonitor\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.csproj.GenerateResource.cache
+C:\Users\Mario\Documents\Visual Studio 2019\Visual Studio 2019\WeatherClickMonitor\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.exe
+C:\Users\Mario\Documents\Visual Studio 2019\Visual Studio 2019\WeatherClickMonitor\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.pdb
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\5 - Send To PC Test\WeatherClickMonitor\WeatherClickMonitor\bin\Debug\WeatherClickMonitor.exe.config
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\5 - Send To PC Test\WeatherClickMonitor\WeatherClickMonitor\bin\Debug\WeatherClickMonitor.exe
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\5 - Send To PC Test\WeatherClickMonitor\WeatherClickMonitor\bin\Debug\WeatherClickMonitor.pdb
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\5 - Send To PC Test\WeatherClickMonitor\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.csprojAssemblyReference.cache
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\5 - Send To PC Test\WeatherClickMonitor\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.Form1.resources
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\5 - Send To PC Test\WeatherClickMonitor\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.Properties.Resources.resources
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\5 - Send To PC Test\WeatherClickMonitor\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.csproj.GenerateResource.cache
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\5 - Send To PC Test\WeatherClickMonitor\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.exe
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\5 - Send To PC Test\WeatherClickMonitor\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.pdb
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\5 - Send To PC Test\WeatherClickMonitor\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\WeatherClickMonitor\WeatherClickMonitor\bin\Debug\WeatherClickMonitor.exe.config
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\WeatherClickMonitor\WeatherClickMonitor\bin\Debug\WeatherClickMonitor.exe
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\WeatherClickMonitor\WeatherClickMonitor\bin\Debug\WeatherClickMonitor.pdb
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\WeatherClickMonitor\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.csprojAssemblyReference.cache
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\WeatherClickMonitor\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.Form1.resources
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\WeatherClickMonitor\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.Properties.Resources.resources
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\WeatherClickMonitor\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.csproj.GenerateResource.cache
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\WeatherClickMonitor\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\WeatherClickMonitor\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.exe
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\WeatherClickMonitor\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.pdb
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\WeatherClickMonitor v2\WeatherClickMonitor\bin\Debug\WeatherClickMonitor.exe.config
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\WeatherClickMonitor v2\WeatherClickMonitor\bin\Debug\WeatherClickMonitor.exe
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\WeatherClickMonitor v2\WeatherClickMonitor\bin\Debug\WeatherClickMonitor.pdb
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\WeatherClickMonitor v2\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.csprojAssemblyReference.cache
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\WeatherClickMonitor v2\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.Form1.resources
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\WeatherClickMonitor v2\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.Properties.Resources.resources
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\WeatherClickMonitor v2\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.csproj.GenerateResource.cache
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\WeatherClickMonitor v2\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\WeatherClickMonitor v2\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.exe
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\WeatherClickMonitor v2\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.pdb
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\6 - new methode\WeatherClickMonitor v4\WeatherClickMonitor\bin\Debug\WeatherClickMonitor.exe.config
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\6 - new methode\WeatherClickMonitor v4\WeatherClickMonitor\bin\Debug\WeatherClickMonitor.exe
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\6 - new methode\WeatherClickMonitor v4\WeatherClickMonitor\bin\Debug\WeatherClickMonitor.pdb
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\6 - new methode\WeatherClickMonitor v4\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.csprojAssemblyReference.cache
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\6 - new methode\WeatherClickMonitor v4\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.Form1.resources
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\6 - new methode\WeatherClickMonitor v4\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.Properties.Resources.resources
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\6 - new methode\WeatherClickMonitor v4\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.csproj.GenerateResource.cache
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\6 - new methode\WeatherClickMonitor v4\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\6 - new methode\WeatherClickMonitor v4\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.exe
+C:\Users\Mario\Documents\0 uC\uC programi\moje_programi\Weather click\6 - new methode\WeatherClickMonitor v4\WeatherClickMonitor\obj\Debug\WeatherClickMonitor.pdb

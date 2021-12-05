@@ -1,0 +1,32 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F45K22 -DL -O11111114 -fo8 -N"C:\Users\Mario\Desktop\Weather click\Weather click - mikroC\weather.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Mario\Desktop\Weather click\Weather click - mikroC\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "weather.c" "BME280_Driver.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_Sprintf.mcl" "__Lib_I2C_c34d01.mcl" "__Lib_UART_c67d67.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	bme280_driver.h
+warning: 48	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	weather.c
+diagnostics: 125	123	Compiled Successfully	weather.c
+diagnostics: 0	122	Compilation Started	BME280_Driver.c
+diagnostics: 331	123	Compiled Successfully	BME280_Driver.c
+hint: 164	1164	Variable 'temp1' has been eliminated by optimizer	BME280_Driver.c
+hint: 164	1164	Variable 'temp2' has been eliminated by optimizer	BME280_Driver.c
+hint: 164	1164	Variable 'T' has been eliminated by optimizer	BME280_Driver.c
+hint: 205	1164	Variable 'H' has been eliminated by optimizer	BME280_Driver.c
+hint: 224	1164	Variable 'Temp' has been eliminated by optimizer	BME280_Driver.c
+hint: 225	1164	Variable 'T' has been eliminated by optimizer	BME280_Driver.c
+hint: 234	1164	Variable 'Press' has been eliminated by optimizer	BME280_Driver.c
+hint: 235	1164	Variable 'P' has been eliminated by optimizer	BME280_Driver.c
+hint: 244	1164	Variable 'Hum' has been eliminated by optimizer	BME280_Driver.c
+hint: 245	1164	Variable 'H' has been eliminated by optimizer	BME280_Driver.c
+hint: 254	1164	Variable 'id' has been eliminated by optimizer	BME280_Driver.c
+hint: 262	1164	Variable 'status' has been eliminated by optimizer	BME280_Driver.c
+hint: 270	1164	Variable 'ctrl' has been eliminated by optimizer	BME280_Driver.c
+hint: 280	1164	Variable 'ctrl' has been eliminated by optimizer	BME280_Driver.c
+hint: 290	1164	Variable 'ctrl' has been eliminated by optimizer	BME280_Driver.c
+hint: 300	1164	Variable 'ctrl' has been eliminated by optimizer	BME280_Driver.c
+hint: 310	1164	Variable 'ctrl' has been eliminated by optimizer	BME280_Driver.c
+hint: 320	1164	Variable 'ctrl' has been eliminated by optimizer	BME280_Driver.c
+diagnostics: 0	127	All files Compiled in 109 ms	 
+hint: 0	1144	Used RAM (bytes): 278 (18%)  Free RAM (bytes): 1237 (82%)	Used RAM (bytes): 278 (18%)  Free RAM (bytes): 1237 (82%)
+hint: 0	1144	Used ROM (bytes): 22389 (68%)  Free ROM (bytes): 10379 (32%)	Used ROM (bytes): 22389 (68%)  Free ROM (bytes): 10379 (32%)
+diagnostics: 0	125	Project Linked Successfully	weather.mcppi
+diagnostics: 0	128	Linked in 62 ms	 
+diagnostics: 0	129	Project 'weather.mcppi' completed: 187 ms	 
+diagnostics: 0	103	Finished successfully: 05 pro 2021, 17:48:22	weather.mcppi
